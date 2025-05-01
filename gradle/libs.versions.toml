@@ -2,7 +2,7 @@
 detekt = "1.23.8"
 # @pin
 kotlin = "2.0.21"
-kotlinLogging = "7.0.6"
+kotlinLogging = "7.0.7"
 # @pin
 kotlinxCoroutines = "1.9.0"
 kotlinxDatetime = "0.6.2"
