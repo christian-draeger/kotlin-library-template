@@ -1,16 +1,16 @@
 [versions]
 detekt = "1.23.8"
-kotlin = "2.2.21"
-kotlinLogging = "7.0.13"
-kotlinxCoroutines = "1.10.2"
-kotlinxDatetime = "0.7.1"
-kotlinxSerializationJSON = "1.9.0"
-mavenPublishPlugin = "0.34.0"
-slf4j = "2.0.17"
+kotlin = "2.4.0"
+kotlinLogging = "8.0.4"
+kotlinxCoroutines = "1.11.0"
+kotlinxDatetime = "0.8.0"
+kotlinxSerializationJSON = "1.11.0"
+mavenPublishPlugin = "0.37.0"
+slf4j = "2.0.18"
 testLogger = "4.0.0"
-versionCatalogUpdate = "1.0.1"
+versionCatalogUpdate = "1.1.0"
 versionsFilterPlugin = "0.1.16"
-versionsPlugin = "0.53.0"
+versionsPlugin = "0.54.0"
 
 [plugins]
 detekt = { id = "io.gitlab.arturbosch.detekt", version.ref = "detekt" }
